@@ -28,7 +28,7 @@ pipeline {
 
 			}
 		failure {
-				echo "Run on fail"
+				echo "Run on faiiiiiiiil"
 			}
 	}
 }
